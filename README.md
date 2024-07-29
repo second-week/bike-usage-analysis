@@ -1,12 +1,8 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 
 # Bike Usage Analysis Case Study From Google Data Analysis Certificate Capstone Project
 
-## Overview {#overview}
+## Overview 
 
 This is my attempt at the capstone case study from the [Google data
 analyst certificate on
@@ -46,7 +42,7 @@ it sure wasn't easy for me to do at my current skill level.
 3.  [Usage](#usage)
 4.  [Contributing](#contributing)
 
-## Installation {#installation}
+## Installation
 
 To run the analysis, you'll need the following: - R (version 4.0.0 or
 higher) - The `tidyverse` package
@@ -64,7 +60,7 @@ Here's a
 [PDF](https://d3c33hcgiwev3.cloudfront.net/1XKhm37HS9iPXHfAIEBaRQ_ec9ad22caf394fec9608b08e556eb1f1_Case-Study-1_How-does-a-bike-shared-navigate-speedy-success_.pdf?Expires=1722384000&Signature=fmkIpEfRpYno7yebTYyBhsf9msabPMOpJ6hDYP0Cm1RFeoRdmKXG4lwYw2YYJPvCfvx0wVsv8k3O6iBBMLq3St6lCV0mbFeSwsQz7M3gOngkZqSJ4iXEYFbCG7r2OGZ2gmvaECs3dGPqyrOEo8aJPLb62scqoHVBBRDXIM-XEtE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 concerning the project.
 
-## Usage {#usage}
+## Usage
 
 1.  Clone the Repository:
 
@@ -81,7 +77,7 @@ Place the data sets in the data directory.
 
 Open the R script `bike_share3.R` and run the script.
 
-## Contributing {#contributing}
+## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request
 for any improvements. I appreciate any feedback and corrections.
