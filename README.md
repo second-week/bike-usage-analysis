@@ -11,7 +11,7 @@ In the case study (that's based on a fictional bike sharing company), I
 focus on analyzing bike usage patterns for the company's user groups
 (annual members and casual riders), using data from the first 4 months
 of 2024. The data used in this case comes from the usage records of an
-actual bike sharing company.
+actual bike sharing company called [Divvy Bikes](https://divvybikes.com/).
 
 In the analysis, we (by we, I mean ChatGPT and I) focus on answering
 questions related to trip frequencies and duration, usage patterns by
