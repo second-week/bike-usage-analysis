@@ -35,6 +35,26 @@ skills even more. But it plays a part in stretching my current
 understanding. And that's worth a lot, even if it seems easy to do. But
 it sure wasn't easy for me to do at my current skill level.
 
+### A note on the analysis
+
+I took random samples from 4 datasets as at first, I wanted to use
+Google Sheets for another version of the analysis. But later on, after
+deciding to use R, I still continued using the samples.
+
+Now, these samples were 20,000 rows from each dataset. But looking
+back now, I should've switched and used the full datasets for the
+analysis. But I understand my decision because until the midpoint
+of the analysis, I was still thinking of doing a version of it in 
+Google Sheets after doing it in R.
+
+In the future, I'll decide upfront where I'll use full datasets or take
+samples. I realize that there isn't really an objective answer that 
+applies to all situations. And I see the choice I made in this instance as
+an opportunity to practise taking random samples of data.
+
+A lot of things are about discernment, I realize. And that's something I try 
+to develop: the ability to observe a situation and choose an appropriate response.
+
 ## Table of Contents
 
 1.  [Overview](#overview)
@@ -83,7 +103,5 @@ Contributions are welcome. Please open an issue or submit a pull request
 for any improvements. I appreciate any feedback and corrections.
 
 
-
-
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commins License.
